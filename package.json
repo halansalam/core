@@ -26,8 +26,8 @@
         "webpack-cli": "^3.3.12"
     },
     "dependencies": {
-        "apidoc": "^0.23.0",
-        "cross-env": "^5.2.1",
+        "apidoc": "^1.1.0",
+        "cross-env": "^6.0.0",
         "laravel-echo": "^1.8.1",
         "pusher-js": "^5.1.1"
     }
